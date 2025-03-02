@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Super Mario 3D World + Bowser's Fury",
+        "date": "2021-02-12",
+        "content": "Super Mario 3D World + Bowser's Fury is a platform video game developed and published by Nintendo for the Nintendo Switch. It is a port of the Wii U game Super Mario 3D World, released worldwide in February 2021. The game includes the original Super Mario 3D World and a new standalone adventure called Bowser's Fury.",
+        "image": "./images/Super_Mario_3D.jpg"
+    },
+    {
+        "title": "Genshin Impact New version",
+        "date": "2025-02-12",
+        "content": "Genshin Impact new version released. New characters and features added.",
+        "image": "./images/Genshin_Impact.jpg"
+    },
+    {
+        "title": "Brawl Stars Tournament",
+        "date": "2022-03-15",
+        "content": "Brawl Stars tournament announced. Exciting prizes to be won.",
+        "image": "./images/Brawl_Stars.jpg"
+    }
+]

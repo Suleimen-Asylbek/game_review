@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Hogwarts Legacy",
+        "content": "Hogwarts Legacy is an upcoming action role-playing video game set in the Harry Potter universe, being developed by Portkey Games and published by Warner Bros. Interactive Entertainment under its Portkey Games label. The game will be set in the 1800s, long before the events of the main series.",
+        "main_image": "./images/hogwarts_main.jpg",
+        "genre": "Action RPG",
+        "publicationDate": "2022-12-31",
+        "images": ["./images/hogwarts_1.jpg", "./images/hogwarts_2.jpg", "./images/hogwarts_3.jpg"]
+    },
+    {
+        "title": "Minecraft",
+        "content": "Minecraft is a sandbox video game developed by Mojang Studios. The game was created by Markus 'Notch' Persson in the Java programming language. Following several early test versions, it was released as a paid public alpha for personal computers in 2009 before releasing in November 2011, with Jens Bergensten taking over development.",
+        "main_image": "./images/minecraft_main.jpg",
+        "genre": "Sandbox",
+        "publicationDate": "2009-05-17",
+        "images": ["./images/minecraft_1.jpg", "./images/minecraft_2.jpg", "./images/minecraft_3.jpg"]
+    },
+    {
+        "title": "Mario Kart 8 Deluxe",
+        "content": "Mario Kart 8 Deluxe is a kart racing video game developed and published by Nintendo for the Nintendo Switch. It is a port of the Wii U game Mario Kart 8, released worldwide in April 2017. It includes all the content of the original game, including all the previously released downloadable content, as well as new content.",
+        "main_image": "./images/mario_kart_main.jpg",
+        "genre": "Racing",
+        "publicationDate": "2017-04-28",
+        "images": ["./images/mario_kart_1.jpg", "./images/mario_kart_2.jpg", "./images/mario_kart_3.jpg"]
+    },
+    {
+        "title": "Brawl Stars",
+        "content": "Brawl Stars is a freemium mobile video game developed and published by the Finnish video game company Supercell. The game is a multiplayer online battle arena where players battle in a top-down shooter game. The game was released globally on December 12, 2018.",
+        "main_image": "./images/brawl_stars_main.jpg",
+        "genre": "MOBA",
+        "publicationDate": "2018-12-12",
+        "images": ["./images/brawl_stars_1.jpg", "./images/brawl_stars_2.jpg", "./images/brawl_stars_3.jpg"]
+    }
+]
